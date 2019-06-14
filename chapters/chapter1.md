@@ -12,7 +12,15 @@ id: 1
 <exercise id="1" title="Introduction" type="slides">
 
 <slides source="chapter1_01_introduction">
+	
 </slides>
+
+<codeblock id="01_01">
+
+This is a hint.
+
+</codeblock>
+
 
 </exercise>
 
@@ -20,16 +28,18 @@ id: 1
 
 Let's ask some questions about the slides. Whats the correct answer?
 
-<choice>
-<opt text="Answer one">
+Hey. Am I here? MAybe not...
 
-This is not the correct answer.
+<choice>
+<opt text="Answer one" correct="true">
+
+This is now the correct answer.
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="Answer two">
 
-Good job!
+Was a good job!
 
 </opt>
 
