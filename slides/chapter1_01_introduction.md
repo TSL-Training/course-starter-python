@@ -2,11 +2,8 @@
 type: slides
 ---
 
-# Bum
 
-In this chapter we'll work with these objectives.
-
-But nothing else
+# Intro!
 
 ---
 
